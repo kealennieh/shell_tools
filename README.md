@@ -140,6 +140,11 @@ sheWcFile.sh -f <file>
 eg: sheWcFile.sh -f test.txt
 ```
 
+19. enter the latest folder.
+```
+sheCdLatestFolder.sh
+```
+
 #### Todo 
 - [x] remove the files by time and store the latest file.
 
